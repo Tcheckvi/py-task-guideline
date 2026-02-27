@@ -1,0 +1,10 @@
+Hello! I'm GitHub Copilot. I'm here to help you write code.
+
+What would you like to create in your Python file? I can help you with:
+- Python scripts
+- Data processing
+- Algorithms
+- Utilities
+- And much more
+
+Just let me know what you'd like to build!

@@ -1,0 +1,10 @@
+I'm not sure what you're looking for with "goog". Could you provide more context? For example:
+
+- Are you trying to write code to interact with Google APIs?
+- Do you need a Google search function?
+- Are you looking for something else?
+
+I want you
+
+
+Please clarify what you'd like help with, and I'll provide a code example for your Python file.
