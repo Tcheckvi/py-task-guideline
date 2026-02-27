@@ -1,0 +1,10 @@
+Hello! I'm GitHub Copilot. I'm here to help you with your programming tasks.
+
+What would you like help with? I can assist you with:
+- Writing Python code
+- Debugging existing code
+- Creating functions and scripts
+- And more
+
+Just let me know what you'd like to build!
+telll me more
